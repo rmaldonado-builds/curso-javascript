@@ -38,9 +38,13 @@ Aquí iré subiendo los ejercicios, proyectos y notas que vaya desarrollando dur
 ## 📈 Progreso
 
 🟢 Lección 0: Crear un Hello World
+
 🟢 Lección 1: Variables (var, let y const)
+
 🟡 Lección 2: Tipos de datos
+
 🔴 Lección 3: Pendiente
+
 (Se irá actualizando a medida que avance)
 
 ---
@@ -49,7 +53,6 @@ Aquí iré subiendo los ejercicios, proyectos y notas que vaya desarrollando dur
 
 **Ronald Maldonado**  
 📍 Supervisor BPO | Entusiasta de la automatización e inteligencia artificial  
-🔗 [LinkedIn](Pendiente) | [GitHub]([#](https://github.com/rmaldonado-builds))
 
 ---
 
