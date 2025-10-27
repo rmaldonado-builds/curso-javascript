@@ -61,15 +61,39 @@ Este proyecto incluye prácticas reales de manejo de Git y GitHub:
 
 ---
 
-## 🙌 Créditos
+## 💬 Feedback y Colaboración
 
-Este repositorio se inspira en el trabajo original de [MoureDev](https://github.com/mouredev/hello-javascript).
+¿Tienes sugerencias, mejoras o encontraste algún error en mi código?  
+¡Me encantaría recibir tu feedback!
+
+- 🐛 **Reportar errores:** [Crear Issue](https://github.com/rmaldonado-builds/[NOMBRE-DE-TU-REPO]/issues/new?template=bug_report.md)
+- 💡 **Sugerir mejoras:** [Nueva Sugerencia](https://github.com/rmaldonado-builds/[NOMBRE-DE-TU-REPO]/issues/new?template=feature_request.md)
+- 🤝 **Discusión general:** [Discussions](https://github.com/rmaldonado-builds/[NOMBRE-DE-TU-REPO]/discussions)
+
+> *Cualquier feedback constructivo es bienvenido y valorado para mi crecimiento profesional.*
 
 ---
+
+## 🙌 Créditos y Referencias
+
+Este repositorio se inspira en el **[Curso COMPLETO de JavaScript DESDE CERO](https://github.com/mouredev/hello-javascript)** de [MoureDev](https://github.com/mouredev).
+
+🔄 **Repositorio original:** [hello-javascript](https://github.com/mouredev/hello-javascript)  
+📚 **Carpeta de ejercicios básicos:** [Basic](https://github.com/mouredev/hello-javascript/tree/main/Basic)  
+👨‍💻 **Autor original:** [Brais Moure - MoureDev](https://github.com/mouredev)
+
+---
+
+## ✨ Autor
 
 **Ronald Maldonado**  
 📍 Supervisor BPO | Entusiasta de la automatización e inteligencia artificial  
+💼 **LinkedIn:** [Ronald Maldonado](https://www.linkedin.com/in/ronald-martin-maldonado-g/)  
+🐙 **GitHub:** [@rmaldonado-builds](https://github.com/rmaldonado-builds)  
+📧 **Contacto:** [ronaldmartinmaldonado@gmail.com](mailto:ronaldmartinmaldonado@gmail.com)
+
+> _“Aprender un nuevo lenguaje es abrir una nueva forma de pensar.”_
 
 ---
 
-> _“Aprender un nuevo lenguaje es abrir una nueva forma de pensar.”_
+
