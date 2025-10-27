@@ -17,13 +17,13 @@ Aquí iré subiendo los ejercicios, proyectos y notas que vaya desarrollando dur
 
 ## 🛠️ Temas que abordaré
 
+- Sintaxis básica y comentarios  
 - Variables y tipos de datos  
-- Operadores y estructuras de control  
-- Funciones  
-- Objetos y arreglos  
-- DOM y eventos  
-- Asincronía (Promises, async/await)  
-- Módulos y buenas prácticas  
+- Operadores  
+- Estructuras de control (condicionales y bucles)  
+- Funciones y manejo de argumentos  
+- Manipulación de objetos y arrays  
+- Interacción con el DOM básico 
 
 ---
 
@@ -57,7 +57,11 @@ Este proyecto incluye prácticas reales de manejo de Git y GitHub:
 
 ---
 
-## ✨ Autor - Curso COMPLETO de JavaScript DESDE CERO - MoureDev
+## 🙌 Créditos
+
+Este repositorio se inspira en el trabajo original de [MoureDev](https://github.com/mouredev/hello-javascript).
+
+---
 
 **Ronald Maldonado**  
 📍 Supervisor BPO | Entusiasta de la automatización e inteligencia artificial  
