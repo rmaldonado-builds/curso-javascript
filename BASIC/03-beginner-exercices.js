@@ -27,6 +27,7 @@ console.log(variablenull);
 console.log(variablesymbol);
 console.log(variableBigInt);
 console.log(variableBigInt2);
+console.log("-------------------");
 
 // 5. Imprime por consola el tipo de todas las variables
 console.log(typeof variablestring);
@@ -37,6 +38,7 @@ console.log(typeof variablenull);
 console.log(typeof variablesymbol);
 console.log(typeof variableBigInt);
 console.log(typeof variableBigInt2);
+console.log("-------------------");
 
 // 6. A continuación, modifica los valores de las variables por otros del mismo tipo
 variablestring = "cambié la variable"
@@ -56,6 +58,7 @@ console.log(variablenull);
 console.log(variablesymbol);
 console.log(variableBigInt);
 console.log(variableBigInt2);
+console.log("-------------------");
 
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
 variablestring = 1234
@@ -75,9 +78,33 @@ console.log(typeof variablenull);
 console.log(typeof variablesymbol);
 console.log(typeof variableBigInt);
 console.log(typeof variableBigInt2);
+console.log("-------------------");
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
+const variableConstanteStrint = "Esta variable es una cadena de texto usando const"
+const variableConstanteNumber = 2025
+const variableConstanteBoolean = false
+const variableConstanteUndefined = undefined
+const variableConstanteNull = null
+const variableConstanteSymbol = Symbol("constante que es un valor unico")
+const variableConstanteBigInt = 11223344556677889900n
+const variableConstanteBigInt2 = BigInt("99887766554433221100")
+
+console.log(variableConstanteStrint);
+console.log(variableConstanteNumber);
+console.log(variableConstanteBoolean);
+console.log(variableConstanteUndefined);
+console.log(variableConstanteNull);
+console.log(variableConstanteSymbol);
+console.log(variableConstanteBigInt);
+console.log(variableConstanteBigInt2);
+console.log("-------------------");
+
 // 9. A continuación, modifica los valores de las constantes
+//variableConstanteStrint = "no se puede cmbiar el valor de una constante const"
+
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
+// Las líneas que intentan cambiar el valor de una constante "const" producen error
+
