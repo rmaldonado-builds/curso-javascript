@@ -56,7 +56,22 @@ console.log(10 >= 10) // mayor o igual que
 console.log(a == b) // igual que (solo compara el valor)
 console.log(a == a) // igual que (solo compara el valor)
 console.log(a === a) // estrictamente igual que (compara valor y tipo de dato)
-console.log(a == "6") // igual que (solo compara el valor)
-console.log(a === "6") // estrictamente igual que (compara valor y tipo de dato)
-console.log(a != "6") // diferente que (solo compara el valor)
-console.log(a !== "6") // estrictamente diferente que (compara valor y tipo de dato)
+console.log(a == "6") // igual que (solo compara el valor) * respuesta verdadero
+console.log(a === "6") // estrictamente igual que (compara valor y tipo de dato) * respuesta falso
+console.log(a != "6") // diferente que (solo compara el valor)* respuesta verdadero
+console.log(a !== "6") // estrictamente diferente que (compara valor y tipo de dato)* respuesta verdadero
+console.log(0 === false) // estrictamente igual que (compara valor y tipo de dato) * respuesta falso
+console.log(0 == false) // igual que (solo compara el valor) * respuesta verdadero
+console.log(1 === true) // estrictamente igual que (compara valor y tipo de dato) * respuesta falso
+console.log(1 == true) // igual que (solo compara el valor) * respuesta verdadero
+console.log(2 == true) // igual que (solo compara el valor) * respuesta falso
+console.log(2 == false) // igual que (solo compara el valor) * respuesta falso
+console.log(0 == "") // es verdadero
+console.log(0 == " ") // es verdadero
+console.log(0 === "") // es falso
+
+console.log("-------------------");
+
+// operadores logicos
+
+console.log(5 < 10 && 10 > 15) // esto es falso && es el operador lógico and
