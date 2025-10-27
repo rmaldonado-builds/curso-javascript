@@ -74,4 +74,28 @@ console.log("-------------------");
 
 // operadores logicos
 
+// and &&
 console.log(5 < 10 && 10 > 15) // esto es falso && es el operador lógico and
+console.log(5 < 10 && 10 < 15) // esto es verdadero
+
+// or ||
+console.log(5 < 10 || 10 > 15) // esto es verdadero
+console.log(5 > 10 || 10 < 15) // esto es verdadero
+console.log(5 > 10 || 10 > 15) // esto es falso
+console.log(5 < 10 && 10 > 15 || 3 < 5)  // esto es verdadero porque se cumple el or ||
+
+// not ! invierte el valor de verdad
+console.log(5 < 10) // esto es verdadero
+console.log(!(5 < 10)) // esto es falso
+console.log(!true) // esto es falso
+console.log(!false) // esto es verdadero
+
+console.log("-------------------");
+
+// operador ternario
+
+const itsraining = true
+
+itsraining ? console.log("está lloviendo") : console.log("no está lloviendo")
+!itsraining ? console.log("está lloviendo") : console.log("no está lloviendo")
+
