@@ -47,6 +47,14 @@ Aquí iré subiendo los ejercicios, proyectos y notas que vaya desarrollando dur
 
 🔴 (Se irá actualizando a medida que avance)
 
+## 🧩 Gestión de versiones colaborativa
+
+Este proyecto incluye prácticas reales de manejo de Git y GitHub:
+- Resolución de conflictos entre cambios locales y remotos.
+- Uso de merges y mensajes de commit documentados.
+- Trabajo sincronizado entre VS Code, Git Bash y GitHub.
+- Registro transparente de mi aprendizaje y avance.
+
 ---
 
 ## ✨ Autor - Curso COMPLETO de JavaScript DESDE CERO - MoureDev
