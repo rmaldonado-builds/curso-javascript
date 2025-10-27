@@ -41,11 +41,11 @@ Aquí iré subiendo los ejercicios, proyectos y notas que vaya desarrollando dur
 
 🟢 Lección 1: Variables (var, let y const)
 
-🟡 Lección 2: Tipos de datos
+🟢 Lección 2: Tipos de datos
 
-🔴 Lección 3: Pendiente
+🟡 Lección 3: Pendiente
 
-(Se irá actualizando a medida que avance)
+🔴 (Se irá actualizando a medida que avance)
 
 ---
 
