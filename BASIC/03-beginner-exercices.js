@@ -27,6 +27,7 @@ console.log(variablenull);
 console.log(variablesymbol);
 console.log(variableBigInt);
 console.log(variableBigInt2);
+
 // 5. Imprime por consola el tipo de todas las variables
 console.log(typeof variablestring);
 console.log(typeof variablenumber);
@@ -39,7 +40,7 @@ console.log(typeof variableBigInt2);
 
 // 6. A continuación, modifica los valores de las variables por otros del mismo tipo
 variablestring = "cambié la variable"
-variablenumber = 14
+variablenumber = 14.05
 variableboolean = false
 variableundefined = undefined
 variablenull = null
@@ -47,7 +48,33 @@ variablesymbol = Symbol("recordar que este es un valor unico")
 variableBigInt = 987654321098765432109876543210n
 variableBigInt2 = BigInt("98765432109876543210987654321")
 
+console.log(variablestring);
+console.log(variablenumber);
+console.log(variableboolean);
+console.log(variableundefined);
+console.log(variablenull);
+console.log(variablesymbol);
+console.log(variableBigInt);
+console.log(variableBigInt2);
+
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
+variablestring = 1234
+variablenumber = "Cambié el tipo"
+variableboolean = undefined
+variableundefined = null
+variablenull = true
+variablesymbol = 123456789012345678901234567890n
+variableBigInt = Symbol("es otro simbolo")
+variableBigInt2 = false
+
+console.log(typeof variablestring);
+console.log(typeof variablenumber);
+console.log(typeof variableboolean);
+console.log(typeof variableundefined);
+console.log(typeof variablenull);
+console.log(typeof variablesymbol);
+console.log(typeof variableBigInt);
+console.log(typeof variableBigInt2);
 
 // 8. Declara constantes con valores asociados a todos los tipos de datos primitivos
 
