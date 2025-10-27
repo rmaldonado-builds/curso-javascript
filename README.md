@@ -43,7 +43,11 @@ Aquí iré subiendo los ejercicios, proyectos y notas que vaya desarrollando dur
 
 🟢 Lección 2: Tipos de datos
 
-🟡 Lección 3: Pendiente
+🟢 Lección 3: Tipos de Operadores
+
+🟡 Lección 4: Strings
+
+🟡 Lección en curso: Pendiente
 
 🔴 (Se irá actualizando a medida que avance)
 
